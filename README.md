@@ -1,6 +1,6 @@
 ### Hi there, 👋 I'm Yasir Bajwa Frontend/React developer 
 
-#I have worked on a 80+ freelance Projects.Some of them are uploaded here other were privates so could't upload due to privacy issue.
+I have worked on a 80+ freelance Projects.Some of them are uploaded here other were privates so could't upload due to privacy issue.
 
 ### Connect with me:
 
