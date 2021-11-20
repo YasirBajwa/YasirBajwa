@@ -83,7 +83,7 @@
 </details>
 
 
-[linkedin]: https://www.linkedin.com/mynetwork/
+[linkedin]: https://www.linkedin.com/in/yasir-bajwa-102480152/
 [fiverr]:  https://www.fiverr.com/yaxirbajwa
 [facebook]: https://www.facebook.com
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
