@@ -1,6 +1,6 @@
 ### Hi there, 👋 I'm Yasir Bajwa Frontend/React developer 
 
-#I have worked on a 80+ freelance Projects.Some of them are uploaded here other were private so could't upload due to privacy issue
+#I have worked on a 80+ freelance Projects.Some of them are uploaded here other were privates so could't upload due to privacy issue.
 
 ### Connect with me:
 
@@ -15,10 +15,10 @@
 ### Computer Science Graduate,Developer & Freelancer  
 
 ## Taking about my self
-   -    Level one Seller on Fiverr
-   - 🌱 Frontend/React developer
-   - 👯 Android/Web development
-   - 🥅 CS Graduate from Agriculture Uinversity,Faisalabad
+   - ✔️ Level one Seller on Fiverr
+   - ⚡ Frontend/React developer
+   - 💻 Android/Web development
+   - 📚 CS Graduate from Agriculture Uinversity,Faisalabad
    - ⚡ Fun fact: I love Cricket,badminton and Snooker
 
 
@@ -59,33 +59,6 @@
 <br />
 <br />
 
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [STACKr News Weekly: We Like Dislikes 😍, No coding tech roles 👨‍💻, Quantum attacks Crypto 🚨](https://www.youtube.com/watch?v=ByzuWuziB2A)
-- [STACKr News Weekly: Learn to code FAST ⚡, Choose a DB in 9.49 min ⌛, BEST Blog app with React ⚛](https://www.youtube.com/watch?v=KZGzo0bkiLY)
-- [Top VS Code Updates | v1.62 Released!! | Tips &amp; Tricks 2021 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=JENei5X1vzs)
-- [STACKr News Weekly: What is DevOps? 🤔 Next.js 12 💪, Mr. Beast Collab! 🌊](https://www.youtube.com/watch?v=Rt6vtIxiJ4k)
-- [API Crash Course - Integrate, Build, &amp; Sell an API $$$ &lpar;EASY!&rpar;](https://www.youtube.com/watch?v=FMJwaA2WMjc)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
 
 ---
 
