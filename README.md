@@ -15,7 +15,7 @@
 ### Computer Science Graduate,Developer & Freelancer  
 
 ## Taking about my self
-   - ✔️ orking on Fiverr/Upwork/LinkedIn
+   - ✔️ Working on Fiverr/Upwork/LinkedIn
    - ⚡ Frontend/React developer
    - 💻 Android/Web development
    - 📚 CS Graduate from Agriculture Uinversity,Faisalabad
