@@ -15,7 +15,7 @@ I have worked on a 80+ freelance Projects.Some of them are uploaded here other w
 ### Computer Science Graduate,Developer & Freelancer  
 
 ## Talking about my self
-   - ✔️W orking on Fiverr/Upwork/LinkedIn
+   - ✔️ Working on Fiverr/Upwork/LinkedIn
    - ⚡ Frontend/React developer
    - 💻 Android/Web development
    - 📚 CS Graduate from Agriculture Uinversity,Faisalabad
