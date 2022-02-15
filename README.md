@@ -1,4 +1,4 @@
-### Hi there, 👋 I'm Yasir Bajwa Frontend/React developer 
+### Hi there, 👋 I'm Yasir Bajwa Level 2 Seller at Fiverr | React developer | Front end developer 
 
 I have worked on a 100+ freelance Projects.Some of them are uploaded here other were privates so could't upload due to privacy issue.
 
