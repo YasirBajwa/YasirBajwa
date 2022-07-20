@@ -77,10 +77,13 @@ I have worked on a 100+ freelance Projects.Some of them are uploaded here other 
 </details> -->
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+ ## 📊 My Github Stats
 
-  <img align="left" alt="Yasir Bajwa GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=YasirBajwa&show_icons=true&hide_border=true" />
-
+  <br/>
+    <a href="https://github.com/YasirBajwa/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YasirBajwa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/YasirBajwa/github-readme-stats"><img alt="YasirBajwa Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirBajwa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
 
