@@ -76,7 +76,7 @@ I have worked on a 100+ freelance Projects.Some of them are uploaded here other 
 
 </details> -->
 
-<details>
+
  ## 📊 My Github Stats
 
   <br/>
@@ -84,7 +84,7 @@ I have worked on a 100+ freelance Projects.Some of them are uploaded here other 
   <a href="https://github.com/YasirBajwa/github-readme-stats"><img alt="YasirBajwa Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirBajwa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
+
 
 
 [linkedin]: https://www.linkedin.com/in/yasir-bajwa-102480152/
