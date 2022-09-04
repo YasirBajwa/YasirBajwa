@@ -38,6 +38,7 @@ I have worked on a 100+ freelance Projects.Some of them are uploaded here other 
     Firebase
     MongoDB
     NodeJs
+    Sanity
 
 
 ### Languages and Tools:
