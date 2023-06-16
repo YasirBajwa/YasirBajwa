@@ -89,9 +89,8 @@ I have worked on a 100+ freelance Projects.Some of them are uploaded here other 
 <br/>
 <br/>
 
-<a href="https://github.com/YasirBajwa/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YasirBajwa&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-
+<a href="https://github.com/YasirBajwa/github-readme-activity-graph">
+   <img alt="Subham Raoniar's Activity Graph" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yasirbajwa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
 [linkedin]: https://www.linkedin.com/in/yasir-bajwa-102480152/
 [fiverr]:  https://www.fiverr.com/yaxirbajwa
 [facebook]: https://www.facebook.com
