@@ -79,18 +79,14 @@ I have worked on a 100+ freelance Projects.Some of them are uploaded here other 
 
 
  ## 📊 My Github Stats
-
   <br/>
-    <a href="https://github.com/YasirBajwa/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YasirBajwa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/YasirBajwa/github-readme-activity-graph">
+   <img alt="Subham Raoniar's Activity Graph" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yasirbajwa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
   <a href="https://github.com/YasirBajwa/github-readme-stats"><img alt="YasirBajwa Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirBajwa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 <br/>
 <br/>
-
-<a href="https://github.com/YasirBajwa/github-readme-activity-graph">
-   <img alt="Subham Raoniar's Activity Graph" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yasirbajwa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
 [linkedin]: https://www.linkedin.com/in/yasir-bajwa-102480152/
 [fiverr]:  https://www.fiverr.com/yaxirbajwa
 [facebook]: https://www.facebook.com
