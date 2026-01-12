@@ -32,7 +32,7 @@ With a proven track record of delivering production-grade applications across we
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88? style=for-the-badge&logo=redux&logoColor=white)
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -42,11 +42,12 @@ With a proven track record of delivering production-grade applications across we
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### AI & Machine Learning
-![OpenAI](https://img.shields.io/badge/OpenAI-412991? style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![Python](https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 **Specialized Skills:**
+- OpenAI API Integration & GPT Models
 - RAG (Retrieval-Augmented Generation) Implementation
 - AI Chatbots & Conversational AI
 - Vector Databases (Pinecone, FAISS)
@@ -77,19 +78,15 @@ With a proven track record of delivering production-grade applications across we
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![YasirBajwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YasirBajwa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasirBajwa&layout=compact&theme=algolia&hide_border=false&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YasirBajwa&theme=algolia&hide_border=false)
-
-</div>
-
-**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+## 📊 My Github Stats
+  <br/>
+<a href="https://github.com/YasirBajwa/github-readme-activity-graph">
+   <img alt="Yasir Bajwa's Activity Graph" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yasirbajwa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/YasirBajwa/github-readme-stats"><img alt="YasirBajwa Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirBajwa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. 
+<br/>
+<br/>
 
 ---
 
