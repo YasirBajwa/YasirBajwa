@@ -6,13 +6,12 @@ I'm a Senior Software Engineer specializing in scalable SaaS and AI-driven appli
 
 I focus on building robust, high-performance systems that seamlessly integrate AI capabilities such as RAG pipelines and AI chatbots, while ensuring they're secure, scalable, and cloud-optimized from end to end.
 
-With a proven track record of delivering production-grade applications across web, mobile, and cloud environments, I bridge the gap between software engineering, AI innovation, and infrastructure reliability. 
+With a proven track record of delivering production-grade applications across web, mobile, and cloud environments, I bridge the gap between software engineering, AI innovation, and infrastructure reliability.  
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Senior Software Engineer with 100+ completed projects
 - 🤖 Building AI-powered SaaS platforms with RAG and intelligent chatbots
 - ☁️ Expertise in cloud infrastructure, Kubernetes, and CI/CD automation
 - 📱 Full-stack web and mobile development (React, Next.js, React Native)
@@ -45,17 +44,23 @@ With a proven track record of delivering production-grade applications across we
 ### AI & Machine Learning
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991? style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Python](https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Specialized Skills:**
 - RAG (Retrieval-Augmented Generation) Implementation
 - AI Chatbots & Conversational AI
 - Vector Databases (Pinecone, FAISS)
+- Large Language Models (LLMs) Integration
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E? style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+**Infrastructure Expertise:**
 - CI/CD Pipelines (GitHub Actions, Jenkins)
 - AWS Services (S3, Lambda, API Gateway)
 - Load Balancers & Ingress Configuration
@@ -74,17 +79,15 @@ With a proven track record of delivering production-grade applications across we
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api? username=YasirBajwa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  
+![YasirBajwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YasirBajwa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=false)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirBajwa&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=false" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasirBajwa&layout=compact&theme=algolia&hide_border=false&langs_count=8)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasirBajwa&theme=algolia" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YasirBajwa&theme=algolia&hide_border=false)
+
+</div>
 
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
