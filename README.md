@@ -87,14 +87,12 @@ With a proven track record of delivering production-grade applications across we
 
 ---
 
-## 📊 My Github Stats
-
-<br/>
-<a href="https://github.com/YasirBajwa/github-readme-stats">
-   <img alt="Yasir Bajwa's Github Stats" src="https://github-readme-stats.vercel. app/api?username=YasirBajwa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
-<a href="https://github.com/YasirBajwa/github-readme-stats">
-   <img alt="YasirBajwa Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirBajwa&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117" /></a>
-<br/>
+ ## 📊 My Github Stats
+  <br/>
+<a href="https://github.com/YasirBajwa/github-readme-activity-graph">
+   <img alt="Subham Raoniar's Activity Graph" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yasirbajwa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/YasirBajwa/github-readme-stats"><img alt="YasirBajwa Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirBajwa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. 
 <br/>
 <br/>
