@@ -23,58 +23,62 @@ With a proven track record of delivering production-grade applications across we
 ## 🧠 Core Expertise
 
 ### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26? style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+- **Modern JavaScript Frameworks:** Expert in React. js and Next.js for building dynamic, server-side rendered, and static web applications with optimal performance and SEO
+- **TypeScript Development:** Strong typing and scalable code architecture for enterprise-level applications ensuring code quality and maintainability
+- **UI/UX Implementation:** Proficient in Material UI, Chakra UI, and Tailwind CSS for creating beautiful, responsive, and accessible user interfaces
+- **State Management:** Advanced Redux implementation for complex application state management and data flow optimization
+- **Data Visualization:** Building interactive dashboards and analytics using Chart.js for real-time data representation
+- **Responsive Design:** Crafting pixel-perfect, mobile-first designs using HTML5, CSS3, SCSS, and modern CSS frameworks like Bootstrap
+- **Performance Optimization:** Code splitting, lazy loading, and bundle optimization techniques to ensure fast load times and smooth user experiences
 
 ### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+- **Node.js & Express.js:** Building high-performance, scalable RESTful APIs and microservices with event-driven architecture for real-time applications
+- **Python Development:** Creating robust backend services, data processing pipelines, and AI/ML model integrations for intelligent application features
+- **Database Design & Management:** 
+  - **MongoDB:** Designing flexible NoSQL schemas for document-based storage, aggregation pipelines, and horizontal scaling
+  - **PostgreSQL:** Implementing complex relational database architectures with optimized queries, transactions, and data integrity
+  - **Firebase:** Real-time database solutions, authentication, and cloud functions for rapid application development
+- **API Architecture:** Designing and implementing RESTful APIs and WebSocket connections for real-time, bidirectional communication
+- **Server-Side Logic:** Building secure authentication systems, authorization middleware, data validation, and business logic implementation
+- **Backend Performance:** Query optimization, caching strategies (Redis), and load balancing for high-traffic applications
 
-**Backend Expertise:**
-- **Node.js** - Building high-performance, scalable server-side applications with event-driven architecture
-- **Python** - Developing AI/ML integrations, data processing pipelines, and automation scripts
-- **MongoDB** - Designing flexible NoSQL database schemas for dynamic, document-based data storage
-- **PostgreSQL** - Implementing robust relational database solutions with complex queries and data integrity
-- **REST APIs & WebSockets** - Creating real-time communication systems and RESTful API architectures
+### Mobile App Development (React Native)
+- **Cross-Platform Mobile Apps:** Developing native iOS and Android applications from a single codebase using React Native, reducing development time and costs
+- **Native Module Integration:** Bridging native code (Swift/Java) with React Native for device-specific features like camera, GPS, push notifications, and biometric authentication
+- **Mobile UI/UX:** Creating smooth, responsive mobile interfaces that follow platform-specific design guidelines (Material Design & iOS Human Interface Guidelines)
+- **State Management:** Implementing Redux and Context API for efficient state management across mobile app screens
+- **Performance Optimization:** Optimizing mobile app performance with FlatList virtualization, image caching, and native driver animations for 60fps experiences
+- **App Deployment:** Managing app releases through App Store and Google Play, including continuous delivery pipelines and over-the-air updates
+- **Offline Functionality:** Implementing offline-first architectures with local storage solutions (AsyncStorage, SQLite) and sync mechanisms
 
 ### AI & Machine Learning
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c? style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- **OpenAI Integration:** Extensive experience with GPT models, embeddings, and fine-tuning for custom AI-powered features in production applications
+- **RAG (Retrieval-Augmented Generation):** Building intelligent systems that combine large language models with custom knowledge bases for accurate, context-aware responses
+- **AI Chatbots:** Developing conversational AI interfaces with natural language understanding, intent recognition, and context management
+- **LangChain Development:** Creating complex AI workflows, chains, and agents for automated decision-making and task execution
+- **Vector Databases:** Implementing semantic search using Pinecone and FAISS for efficient similarity search and recommendation systems
+- **Prompt Engineering:** Crafting effective prompts and system instructions to optimize AI model outputs for specific business requirements
+- **AI Model Integration:** Connecting various AI services (OpenAI, Anthropic, Cohere) into production systems with error handling and fallback strategies
 
-**Specialized Skills:**
-- OpenAI API Integration & GPT Models
-- RAG (Retrieval-Augmented Generation) Implementation
-- AI Chatbots & Conversational AI
-- Vector Databases (Pinecone, FAISS)
-- Large Language Models (LLMs) Integration
+### DevOps & Cloud Infrastructure
+- **AWS Cloud Services:** Deploying and managing scalable applications using EC2, S3, Lambda, API Gateway, RDS, and CloudFormation
+- **Containerization:** Docker expertise for creating consistent development and production environments, multi-stage builds, and optimized container images
+- **Kubernetes Orchestration:** Managing containerized applications at scale with Kubernetes, including pod management, service discovery, and auto-scaling
+- **CI/CD Pipelines:** Automating build, test, and deployment processes using GitHub Actions, Jenkins, and GitLab CI for continuous integration and delivery
+- **Infrastructure as Code:** Managing infrastructure using Terraform and CloudFormation for reproducible, version-controlled infrastructure deployments
+- **Load Balancing & Ingress:** Configuring NGINX, AWS ALB/NLB, and Kubernetes Ingress for traffic distribution and high availability
+- **Monitoring & Logging:** Implementing observability with CloudWatch, Prometheus, Grafana, and ELK stack for system health monitoring and debugging
+- **Security:** Implementing SSL/TLS certificates, security groups, IAM policies, secrets management, and network security best practices
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E? style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5? style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-**Infrastructure Expertise:**
-- CI/CD Pipelines (GitHub Actions, Jenkins)
-- AWS Services (S3, Lambda, API Gateway)
-- Load Balancers & Ingress Configuration
-- Infrastructure as Code
+### SEO & Performance Optimization
+- **Technical SEO:** Implementing structured data (Schema.org), XML sitemaps, robots.txt optimization, and canonical tags for better search engine visibility
+- **Next.js SEO:** Leveraging server-side rendering (SSR), static site generation (SSG), and incremental static regeneration (ISR) for SEO-optimized React applications
+- **Page Speed Optimization:** Achieving 90+ Lighthouse scores through image optimization (WebP, lazy loading), code splitting, and efficient caching strategies
+- **Core Web Vitals:** Optimizing Largest Contentful Paint (LCP), First Input Delay (FID), and Cumulative Layout Shift (CLS) for better user experience and rankings
+- **Meta Tags & Open Graph:** Implementing dynamic meta tags, Open Graph protocol, and Twitter Cards for social media optimization
+- **Mobile-First Indexing:** Ensuring mobile responsiveness and optimal performance across all devices for Google's mobile-first indexing
+- **Analytics & Tracking:** Integrating Google Analytics, Google Search Console, and custom event tracking for data-driven SEO improvements
+- **Content Delivery:** Using CDNs (Cloudflare, AWS CloudFront) for global content delivery and reduced latency
 
 ---
 
@@ -87,13 +91,15 @@ With a proven track record of delivering production-grade applications across we
 
 ---
 
- ## 📊 My Github Stats
-  <br/>
-<a href="https://github.com/YasirBajwa/github-readme-activity-graph">
-   <img alt="Subham Raoniar's Activity Graph" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yasirbajwa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
-  <a href="https://github.com/YasirBajwa/github-readme-stats"><img alt="YasirBajwa Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirBajwa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. 
+## 📊 My Github Stats
+
+<br/>
+<a href="https://github.com/YasirBajwa/github-readme-stats">
+   <img alt="Yasir Bajwa's Github Stats" src="https://github-readme-stats.vercel. app/api?username=YasirBajwa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
+<a href="https://github.com/YasirBajwa/github-readme-stats">
+   <img alt="YasirBajwa Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirBajwa&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.  
 <br/>
 <br/>
 
@@ -104,12 +110,6 @@ With a proven track record of delivering production-grade applications across we
 <p align="left">
   <a href="https://www.linkedin.com/in/yasir-bajwa-102480152/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.fiverr.com/yaxirbajwa" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
-  </a>
-  <a href="https://www.facebook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
 
