@@ -28,21 +28,30 @@ With a proven track record of delivering production-grade applications across we
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26? style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88? style=for-the-badge&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
 
 ### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+**Backend Expertise:**
+- **Node.js** - Building high-performance, scalable server-side applications with event-driven architecture
+- **Python** - Developing AI/ML integrations, data processing pipelines, and automation scripts
+- **MongoDB** - Designing flexible NoSQL database schemas for dynamic, document-based data storage
+- **PostgreSQL** - Implementing robust relational database solutions with complex queries and data integrity
+- **REST APIs & WebSockets** - Creating real-time communication systems and RESTful API architectures
+
 ### AI & Machine Learning
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c? style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
@@ -54,9 +63,9 @@ With a proven track record of delivering production-grade applications across we
 - Large Language Models (LLMs) Integration
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E? style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E? style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5? style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
@@ -79,12 +88,14 @@ With a proven track record of delivering production-grade applications across we
 ---
 
 ## 📊 My Github Stats
-  <br/>
-<a href="https://github.com/YasirBajwa/github-readme-activity-graph">
-   <img alt="Yasir Bajwa's Activity Graph" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yasirbajwa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
-  <a href="https://github.com/YasirBajwa/github-readme-stats"><img alt="YasirBajwa Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirBajwa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. 
+
+<br/>
+<a href="https://github.com/YasirBajwa/github-readme-stats">
+   <img alt="Yasir Bajwa's Github Stats" src="https://github-readme-stats.vercel. app/api?username=YasirBajwa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
+<a href="https://github.com/YasirBajwa/github-readme-stats">
+   <img alt="YasirBajwa Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirBajwa&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. 
 <br/>
 <br/>
 
